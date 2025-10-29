@@ -43,17 +43,13 @@ Actualmente estoy enfocado en:
 
 ## 📂 Proyectos Destacados (Mis Repositorios)
 
-### 1. <a href="https://github.com/TuUsuario/Nombre-del-Repo-1" target="_blank">Nombre del Proyecto 1: (Ej. E-commerce MERN)</a>
-> 🛍️ **Descripción:** Aplicación web de comercio electrónico con funcionalidad completa de carrito de compras, autenticación de usuarios y simulación de pagos.
-> **Tecnologías Clave:** `React`, `Node.js`, `MongoDB`.
+### 1. <a href="https://github.com/elmerrondon/sistema-inventario" target="_blank">Sistema de Inventario - React</a>
+> 🛍️ **Descripción:** Sistema CRUD completo para inventario de productos. Desarrollado con React (Frontend), Express.js (API REST) y MySQL (Base de datos).
+> **Tecnologías Clave:** `React`, `Express`, `MySQL`.
 
-### 2. <a href="https://github.com/TuUsuario/Nombre-del-Repo-2" target="_blank">Nombre del Proyecto 2: (Ej. Gestor de Tareas Next.js)</a>
-> 📝 **Descripción:** Sistema CRUD (Crear, Leer, Actualizar, Borrar) para la gestión eficiente de tareas, demostrando el manejo de rutas dinámicas y SSR.
-> **Tecnologías Clave:** `Next.js`, `Express`, `MySQL`.
-
-### 3. <a href="https://github.com/TuUsuario/Nombre-del-Repo-3" target="_blank">Nombre del Proyecto 3: (Ej. Clon de Red Social/Web Simple)</a>
-> 🌐 **Descripción:** Clon de interfaz de usuario enfocado en la usabilidad y diseño responsivo, utilizando CSS moderno.
-> **Tecnologías Clave:** `HTML5`, `CSS3`, `JavaScript Vanilla`.
+### 2. <a href="https://github.com/TuUsuario/Nombre-del-Repo-2" target="_blank">Gestor de productos Next.js</a>
+> 📝 **Descripción:** Sistema CRUD para la gestión eficiente de productos, demostrando el manejo de rutas dinámicas y SSR.
+> **Tecnologías Clave:** `Next.js`, `MySQL`.
 
 ---
 
