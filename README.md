@@ -47,8 +47,8 @@ Actualmente estoy enfocado en:
 > 🛍️ **Descripción:** Sistema CRUD completo para inventario de productos. Desarrollado con React (Frontend), Express.js (API REST) y MySQL (Base de datos).
 > **Tecnologías Clave:** `React`, `Express`, `MySQL`.
 
-### 2. <a href="https://github.com/TuUsuario/Nombre-del-Repo-2" target="_blank">Gestor de productos Next.js</a>
-> 📝 **Descripción:** Sistema CRUD para la gestión eficiente de productos, demostrando el manejo de rutas dinámicas y SSR.
+### 2. <a href="https://github.com/elmerrondon/crud-nextjs" target="_blank">Gestor de productos (CRUD) - Next.js</a>
+> 📝 **Descripción:** Gestor de productos (CRUD) - Full-Stack en Next.js utilizando MySQL y Tailwind CSS.
 > **Tecnologías Clave:** `Next.js`, `MySQL`.
 
 ---
