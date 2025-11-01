@@ -48,7 +48,7 @@ Actualmente estoy enfocado en:
 > **Tecnologías Clave:** `React`, `Express`, `MySQL`.
 
 ### 2. <a href="https://github.com/elmerrondon/crud-nextjs" target="_blank">Gestor de productos (CRUD) - Next.js</a>
-> 📝 **Descripción:** Gestor de productos (CRUD) - Full-Stack en Next.js utilizando MySQL y Tailwind CSS.
+> 📂 **Descripción:** Gestor de productos (CRUD) - Full-Stack en Next.js utilizando MySQL y Tailwind CSS.
 > **Tecnologías Clave:** `Next.js`, `MySQL`.
 
 ---
