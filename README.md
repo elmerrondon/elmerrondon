@@ -65,17 +65,17 @@ Actualmente estoy enfocado en:
 > 🛍️ **Descripción:** Sistema Full-Stack con arquitectura monolítica, roles de usuario, autenticación por tokens JWT y cifrado. Enfocado en la optimización de consultas y documentación del flujo de datos.
 > **Stack:** `React`, `Express.js`, `Node.js`, `MySQL`.
 
-### 2. <a href="https://github.com/elmerrondon/prueba-lab-exams" target="_blank">Sistema de Gestión de Exámenes de Laboratorio</a>
+### 2. <a href="https://github.com/elmerrondon/API_Laravel_Car_Agency" target="_blank">API Backend para Agencia de Carros (En desarrollo)</a>
+> 🚗 **Descripción:** API RESTful orientada fuertemente a las buenas prácticas de ingeniería de software. Implementación de **Clean Architecture**, separación estricta de dominios, validaciones robustas, transacciones seguras y control de versiones con Git Flow.
+> **Stack:** `PHP`, `Laravel`, `MySQL`.
+
+### 3. <a href="https://github.com/elmerrondon/prueba-lab-exams" target="_blank">Sistema de Gestión de Exámenes de Laboratorio</a>
 > 🔬 **Descripción:** Aplicación web diseñada para clínicas y laboratorios. Gestión de catálogos de exámenes (simples y compuestos), registro de órdenes, resultados y generación dinámica de reportes PDF.
 > **Stack:** `Next.js (App Router)`, `Tailwind CSS`, `MySQL`.
 
-### 3. <a href="https://github.com/elmerrondon/crud-nextjs" target="_blank">CRUD de Productos</a>
+### 4. <a href="https://github.com/elmerrondon/crud-nextjs" target="_blank">CRUD de Productos</a>
 > 📦 **Descripción:** Aplicación Full-Stack orientada al rendimiento, utilizando renderizado del lado del servidor (SSR), Server Components y almacenamiento local de archivos multimedia.
 > **Stack:** `Next.js`, `Tailwind CSS`, `MySQL`.
-
-### 4. <a href="https://github.com/elmerrondon/API_Laravel_Car_Agency" target="_blank">API Backend para Agencia de Carros (En desarrollo)</a>
-> 🚗 **Descripción:** API RESTful orientada fuertemente a las buenas prácticas de ingeniería de software. Implementación de **Clean Architecture**, separación estricta de dominios, validaciones robustas, transacciones seguras y control de versiones con Git Flow.
-> **Stack:** `PHP`, `Laravel`, `MySQL`.
 
 ---
 
