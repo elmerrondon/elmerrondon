@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>ELMER RONDÓN</h1>
+  <h1>ELMER RONDON</h1>
   <h3>Ingeniero en Informática | Full-Stack Developer</h3>
 </div>
 
@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre Mí
 
-Ingeniero en Informática con experiencia en desarrollo Full-Stack. Especializado en la construcción de interfaces web escalables con JavaScript, TypeScript y React, y en el desarrollo de APIs, bases de datos y sistemas backend utilizando Node.js, PHP y Laravel, complementado con experiencia en C# y .NET. 
+Ingeniero en Informática con sólida experiencia en desarrollo Full-Stack. Especializado en la construcción de interfaces web escalables con JavaScript, TypeScript y React, y en el desarrollo de APIs, bases de datos y sistemas backend utilizando Node.js, PHP y Laravel, complementado con experiencia en C# y .NET. 
 
 Estoy firmemente enfocado en la resolución eficiente de problemas, la calidad del código y la optimización del rendimiento. Abordo el desarrollo de software con una visión integral para garantizar tanto una experiencia de usuario fluida como la estabilidad operativa de los sistemas.
 
@@ -51,6 +51,8 @@ Actualmente estoy enfocado en:
 **Arquitectura, Herramientas & IT:**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
@@ -61,13 +63,13 @@ Actualmente estoy enfocado en:
 
 ## 📂 Proyectos Destacados
 
-### 1. <a href="https://github.com/elmerrondon/sistema-inventario" target="_blank">Sistema de Gestión de Inventario</a>
-> 🛍️ **Descripción:** Sistema Full-Stack con arquitectura monolítica, roles de usuario, autenticación por tokens JWT y cifrado. Enfocado en la optimización de consultas y documentación del flujo de datos.
-> **Stack:** `React`, `Express.js`, `Node.js`, `MySQL`.
-
-### 2. <a href="https://github.com/elmerrondon/API_Laravel_Car_Agency" target="_blank">API Backend para Agencia de Carros (En desarrollo)</a>
+### 1. <a href="https://github.com/elmerrondon/API_Laravel_Car_Agency" target="_blank">API Backend para Agencia de Carros (En desarrollo)</a>
 > 🚗 **Descripción:** API RESTful orientada fuertemente a las buenas prácticas de ingeniería de software. Implementación de **Clean Architecture**, separación estricta de dominios, validaciones robustas, transacciones seguras y control de versiones con Git Flow.
 > **Stack:** `PHP`, `Laravel`, `MySQL`.
+
+### 2. <a href="https://github.com/elmerrondon/sistema-inventario" target="_blank">Sistema de Gestión de Inventario</a>
+> 🛍️ **Descripción:** Sistema Full-Stack con arquitectura monolítica, roles de usuario, autenticación por tokens JWT y cifrado. Enfocado en la optimización de consultas y documentación del flujo de datos.
+> **Stack:** `React`, `Express.js`, `Node.js`, `MySQL`.
 
 ### 3. <a href="https://github.com/elmerrondon/prueba-lab-exams" target="_blank">Sistema de Gestión de Exámenes de Laboratorio</a>
 > 🔬 **Descripción:** Aplicación web diseñada para clínicas y laboratorios. Gestión de catálogos de exámenes (simples y compuestos), registro de órdenes, resultados y generación dinámica de reportes PDF.
