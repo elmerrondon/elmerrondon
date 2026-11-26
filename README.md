@@ -7,14 +7,14 @@
 
 ## 🚀 Sobre Mí
 
-Ingeniero en Informática con sólida experiencia en desarrollo Full-Stack. Especializado en la construcción de interfaces web escalables con JavaScript, TypeScript y React, y en el desarrollo de APIs, bases de datos y sistemas backend utilizando Node.js, PHP y Laravel, complementado con experiencia en C# y .NET. 
+Ingeniero en Informática con sólida experiencia en desarrollo Full-Stack. Especializado en la construcción de interfaces web escalables con JavaScript, TypeScript y React, y en el desarrollo de APIs, esquemas de bases de datos y servicios backend utilizando PHP y Laravel, Node.js y Python, complementado con experiencia en C# y .NET.
 
-Estoy firmemente enfocado en la resolución eficiente de problemas, la calidad del código y la optimización del rendimiento. Abordo el desarrollo de software con una visión integral para garantizar tanto una experiencia de usuario fluida como la estabilidad operativa de los sistemas.
+Enfocado en la resolución estructurada de problemas, el diseño de datos, la calidad del código y la confiabilidad en producción. Trabajo con motores relacionales y documentales como **PostgreSQL**, **MySQL**, **SQL Server** y **MongoDB**, abordando cada proyecto con una visión integral para equilibrar una experiencia de usuario ágil con arquitecturas mantenibles, trazables y listas para operar.
 
 Actualmente estoy enfocado en:
-- **Desarrollo Integral:** Construcción de APIs RESTful robustas y conexión con interfaces modernas.
-- **Arquitectura y Calidad:** Aplicación de Clean Architecture, Patrón MVC y metodologías ágiles como Git Flow.
-- **Desarrollo de Código Asistido:** Integración de IA como pilar en mi flujo de trabajo. Empleo agentes para el desarrollo iterativo, Gemini para apoyo en arquitectura y debugging complejo, y NotebookLM para el análisis de documentación técnica.
+- **Desarrollo Integral:** Diseño y construcción de APIs RESTful robustas, transacciones consistentes y conexión fluida con interfaces web modernas.
+- **Bases de Datos, Arquitectura y Calidad:** Modelado relacional y documental en **PostgreSQL**, **MySQL**, **SQL Server** y **MongoDB**, diseño de índices, consultas eficientes, Clean Architecture, Patrón MVC, pruebas automatizadas, análisis estático y flujos de trabajo con Git.
+- **Ingeniería de Software Asistida por IA:** Integración de flujos agénticos en el ciclo de desarrollo mediante **OpenCode**, **Claude Code**, **agentes especializados y skills reutilizables** para planificación, implementación iterativa, auditoría y validación, apoyándome en **Gemini** para diseño arquitectónico y debugging complejo, y en **NotebookLM** para síntesis y consulta de documentación técnica.
 
 ---
 
@@ -37,12 +37,14 @@ Actualmente estoy enfocado en:
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
 </p>
 
 **Bases de Datos:**
 <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -63,20 +65,20 @@ Actualmente estoy enfocado en:
 
 ## 📂 Proyectos Destacados
 
-### 1. <a href="https://github.com/elmerrondon/API_Laravel_Car_Agency" target="_blank">API Backend para Agencia de Carros (En desarrollo)</a>
-> 🚗 **Descripción:** API RESTful orientada fuertemente a las buenas prácticas de ingeniería de software. Implementación de **Clean Architecture**, separación estricta de dominios, validaciones robustas, transacciones seguras y control de versiones con Git Flow.
-> **Stack:** `PHP`, `Laravel`, `MySQL`.
+### 1. <a href="https://github.com/elmerrondon/API_Laravel_Car_Agency" target="_blank">API Backend para Agencia de Carros</a>
+> 🚗 **Descripción:** API RESTful con arquitectura limpia, separación estricta de dominios, validaciones exigentes, transacciones atómicas, auditoría y control de acceso basado en roles. Base de datos migrada y unificada en **PostgreSQL 17** con índices, restricciones de integridad y flujos de respaldo/restauración, acompañada de despliegue contenerizado (desarrollo, producción y PaaS con FrankenPHP), CI/CD en GitHub Actions, suite de pruebas automatizadas y contrato OpenAPI.
+> **Stack:** `PHP`, `Laravel`, `PostgreSQL`, `Docker`, `GitHub Actions`, `OpenAPI`.
 
 ### 2. <a href="https://github.com/elmerrondon/sistema-inventario" target="_blank">Sistema de Gestión de Inventario</a>
-> 🛍️ **Descripción:** Sistema Full-Stack con arquitectura monolítica, roles de usuario, autenticación por tokens JWT y cifrado. Enfocado en la optimización de consultas y documentación del flujo de datos.
+> 🛍️ **Descripción:** Sistema Full-Stack con arquitectura monolítica, gestión de roles, autenticación por tokens JWT y cifrado. Construido sobre **MySQL** con énfasis en el modelado de existencias y movimientos, optimización de consultas y documentación del flujo de datos.
 > **Stack:** `React`, `Express.js`, `Node.js`, `MySQL`.
 
 ### 3. <a href="https://github.com/elmerrondon/prueba-lab-exams" target="_blank">Sistema de Gestión de Exámenes de Laboratorio</a>
-> 🔬 **Descripción:** Aplicación web diseñada para clínicas y laboratorios. Gestión de catálogos de exámenes (simples y compuestos), registro de órdenes, resultados y generación dinámica de reportes PDF.
+> 🔬 **Descripción:** Aplicación web para clínicas y laboratorios orientada al manejo de catálogos de exámenes simples y compuestos, órdenes, resultados y reportes en PDF. Respaldada por **MySQL** para estructurar la relación entre pacientes, pruebas, parámetros y resultados clínicos.
 > **Stack:** `Next.js (App Router)`, `Tailwind CSS`, `MySQL`.
 
 ### 4. <a href="https://github.com/elmerrondon/crud-nextjs" target="_blank">CRUD de Productos</a>
-> 📦 **Descripción:** Aplicación Full-Stack orientada al rendimiento, utilizando renderizado del lado del servidor (SSR), Server Components y almacenamiento local de archivos multimedia.
+> 📦 **Descripción:** Aplicación Full-Stack enfocada en rendimiento con renderizado del lado del servidor (SSR), Server Components y almacenamiento local de archivos multimedia, apoyada en **MySQL** para la persistencia y consulta estructurada del catálogo de productos.
 > **Stack:** `Next.js`, `Tailwind CSS`, `MySQL`.
 
 ---
